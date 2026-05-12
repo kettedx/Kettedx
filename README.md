@@ -1,45 +1,75 @@
-<h1 align="center">👾 Kettelyn tech 💜</h1>
 
-<p align="center">
-🚀 Documentando minha evolução na programação <br>
-💻 Começando do zero | 📈 Evoluindo todo dia
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Laura%20Kettelyn&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-## 👾 Sobre mim
-✨ Estou iniciando minha jornada na programação  
-💜 Aprendendo passo a passo, sem pressa  
-🎮 Compartilhando tudo que estudo aqui  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B983FF&center=true&vCenter=true&width=500&lines=learning+programming...;future+cybersecurity+girl;creating+cool+projects+💜"/>
 
----
+<br><br>
 
-## 📚 Atualmente estudando
-- 🐍 Python básico  
-- 🧠 Lógica de programação  
-- 💻 Exercícios e pequenos projetos  
+<a href="https://github.com/kettedx">
+  <img src="https://img.shields.io/badge/My_Profile-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kettedx?tab=repositories">
+  <img src="https://img.shields.io/badge/My_Projects-black?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🚀 Minha jornada
-👾 Level 1: começando na programação  
-💜 Evoluindo um pouco todos os dias  
-🎮 Construindo meus primeiros projetos  
+## 💜 About me
+
+python
+name = "Laura"
+age = 19
+
+learning = [
+    "Python",
+    "Cybersecurity",
+    "Front-end",
+    "Game Development"
+]
+
+goal = "Becoming a developer ✨"
+
 
 ---
 
-## 🛠️ Tecnologias (em aprendizado)
-<p>
-  <img src="https://img.shields.io/badge/Python-💜-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Lógica-💻-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Iniciante-🚀-black?style=for-the-badge">
-</p>
+<div align="center">
+
+## 🛠️ Learning
+
+<img src="https://skillicons.dev/icons?i=python,html,css,vscode,github"/>
+
+</div>
 
 ---
 
-## 🌙 Objetivo
-Me tornar uma desenvolvedora e crescer no mundo da tecnologia 💜  
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kettedx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kettedx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
+
+</div>
 
 ---
 
-<p align="center">✨ Obrigada por visitar meu perfil ✨</p>
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+ thanks for visiting my profile 
+
+</div>
+
