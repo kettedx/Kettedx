@@ -49,18 +49,6 @@ goal = "Becoming a developer ✨"
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kettedx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kettedx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
